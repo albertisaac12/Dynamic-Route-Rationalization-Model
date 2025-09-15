@@ -1,0 +1,10 @@
+<routes>
+    <vType id="car" accel="1.0" decel="4.5" sigma="0.5" length="5.0" minGap="2.5" maxSpeed="13.9" guiShape="passenger"/>
+
+    <!-- Define a route first -->
+    <route id="R0" edges="E0"/>
+
+    <!-- Vehicles follow the route -->
+    <vehicle id="car1" type="car" depart="0" route="R0"/>
+    <vehicle id="car2" type="car" depart="5" route="R0"/>
+</routes>
