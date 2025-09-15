@@ -1,0 +1,11 @@
+<configuration>
+    <input>
+        <net-file value="mymap.net.xml"/>
+        <route-files value="routes.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600000000"/>
+    </time>
+</configuration>
