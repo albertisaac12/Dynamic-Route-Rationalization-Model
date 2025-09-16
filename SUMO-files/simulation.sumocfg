@@ -6,6 +6,12 @@
 
     <time>
         <begin value="0"/>
-        <end value="3600000000"/>
+        <end value="43200"/>
     </time>
+
+    <output>
+        <!-- Simulation summary (per step) -->
+        <summary-output value="Output/summary.xml"/>
+        <summary-output.period value="600"/>
+    </output>
 </configuration>
