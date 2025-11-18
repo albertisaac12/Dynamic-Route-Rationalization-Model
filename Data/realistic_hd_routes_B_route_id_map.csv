@@ -1,0 +1,133 @@
+route_id,pair_idx,source,destination,variant,base_distance_km,base_duration_min,base_speed_kmph
+1,1,Hyderabad,Gachibowli,A,5.13,7.382,54.01
+2,1,Hyderabad,Gachibowli,B,5.193,7.426,39.86
+3,1,Hyderabad,Gachibowli,C,5.52,15.457,22.68
+4,2,Hyderabad,Madhapur,A,5.735,7.444,37.35
+5,2,Hyderabad,Madhapur,B,5.859,9.002,37.32
+6,2,Hyderabad,Madhapur,C,6.838,14.837,30.24
+7,3,Hyderabad,Banjara Hills,A,5.89,7.51,44.86
+8,3,Hyderabad,Banjara Hills,B,6.586,15.705,27.74
+9,3,Hyderabad,Banjara Hills,C,7.569,14.949,31.61
+10,4,Hyderabad,Secunderabad,A,6.816,6.655,54.6
+11,4,Hyderabad,Secunderabad,B,7.384,15.887,28.87
+12,4,Hyderabad,Secunderabad,C,8.359,14.108,31.89
+13,5,Hyderabad,Begumpet,A,8.003,10.531,39.73
+14,5,Hyderabad,Begumpet,B,8.109,11.96,38.25
+15,5,Hyderabad,Begumpet,C,9.694,22.85,25.13
+16,6,Hyderabad,Kukatpally,A,8.118,11.099,42.46
+17,6,Hyderabad,Kukatpally,B,8.516,14.888,35.3
+18,6,Hyderabad,Kukatpally,C,9.327,26.621,19.7
+19,7,Hyderabad,Uppal,A,8.722,10.319,50.82
+20,7,Hyderabad,Uppal,B,9.088,16.976,31.37
+21,7,Hyderabad,Uppal,C,10.357,25.101,24.51
+22,8,Hyderabad,LB Nagar,A,9.479,12.839,46.96
+23,8,Hyderabad,LB Nagar,B,9.929,20.469,31.09
+24,8,Hyderabad,LB Nagar,C,11.803,34.252,21.66
+25,9,Hyderabad,Dilsukhnagar,A,9.808,11.468,47.79
+26,9,Hyderabad,Dilsukhnagar,B,11.035,17.235,33.87
+27,9,Hyderabad,Dilsukhnagar,C,12.361,21.838,31.93
+28,10,Hyderabad,Hitech City,A,10.629,11.563,46.97
+29,10,Hyderabad,Hitech City,B,11.902,19.432,33.09
+30,10,Hyderabad,Hitech City,C,12.486,35.203,20.06
+31,11,Gachibowli,Madhapur,A,11.709,16.103,41.72
+32,11,Gachibowli,Madhapur,B,11.667,27.467,27.11
+33,11,Gachibowli,Madhapur,C,13.908,28.349,29.09
+34,12,Gachibowli,Banjara Hills,A,11.757,12.364,51.96
+35,12,Gachibowli,Banjara Hills,B,12.254,18.947,39.89
+36,12,Gachibowli,Banjara Hills,C,15.178,37.67,23.97
+37,13,Gachibowli,Airport,A,12.239,14.634,47.69
+38,13,Gachibowli,Airport,B,14.286,22.525,38.19
+39,13,Gachibowli,Airport,C,15.35,39.424,22.41
+40,14,Gachibowli,Kondapur,A,13.834,15.724,51.57
+41,14,Gachibowli,Kondapur,B,13.986,29.267,31.43
+42,14,Gachibowli,Kondapur,C,17.177,55.318,18.68
+43,15,Gachibowli,Financial District,A,14.906,19.664,43.37
+44,15,Gachibowli,Financial District,B,14.79,31.567,27.43
+45,15,Gachibowli,Financial District,C,16.701,53.101,18.46
+46,16,Secunderabad,Hitech City,A,14.638,20.91,43.81
+47,16,Secunderabad,Hitech City,B,15.928,27.604,35.83
+48,16,Secunderabad,Hitech City,C,19.438,54.84,22.16
+49,17,Secunderabad,Kukatpally,A,15.246,18.412,50.83
+50,17,Secunderabad,Kukatpally,B,16.734,39.989,25.27
+51,17,Secunderabad,Kukatpally,C,19.001,52.551,21.41
+52,18,Secunderabad,Banjara Hills,A,15.768,21.231,42.67
+53,18,Secunderabad,Banjara Hills,B,17.438,27.376,39.07
+54,18,Secunderabad,Banjara Hills,C,20.334,53.445,22.97
+55,19,Secunderabad,Gachibowli,A,16.698,21.238,45.21
+56,19,Secunderabad,Gachibowli,B,17.276,40.449,26.61
+57,19,Secunderabad,Gachibowli,C,20.16,60.983,19.24
+58,20,Secunderabad,Begumpet,A,17.438,20.163,52.06
+59,20,Secunderabad,Begumpet,B,17.845,31.317,34.97
+60,20,Secunderabad,Begumpet,C,21.6,53.696,23.65
+61,21,Uppal,Hitech City,A,17.665,21.89,47.62
+62,21,Uppal,Hitech City,B,19.103,36.599,30.31
+63,21,Uppal,Hitech City,C,23.127,58.62,24.18
+64,22,Uppal,Gachibowli,A,18.964,32.533,35.0
+65,22,Uppal,Gachibowli,B,20.185,40.542,30.98
+66,22,Uppal,Gachibowli,C,21.578,58.258,22.96
+67,23,Uppal,Secunderabad,A,19.326,32.658,35.49
+68,23,Uppal,Secunderabad,B,19.905,33.058,35.61
+69,23,Uppal,Secunderabad,C,25.115,65.73,23.08
+70,24,Uppal,Financial District,A,20.434,31.699,38.71
+71,24,Uppal,Financial District,B,21.327,37.635,34.74
+72,24,Uppal,Financial District,C,25.198,58.779,25.47
+73,25,Madhapur,Jubilee Hills,A,20.476,28.58,42.42
+74,25,Madhapur,Jubilee Hills,B,21.077,45.896,27.77
+75,25,Madhapur,Jubilee Hills,C,26.684,58.047,27.57
+76,26,Madhapur,Airport,A,21.543,28.455,43.48
+77,26,Madhapur,Airport,B,23.466,51.749,26.38
+78,26,Madhapur,Airport,C,25.11,49.202,29.79
+79,27,Madhapur,BHEL,A,22.475,29.397,46.22
+80,27,Madhapur,BHEL,B,24.637,53.76,27.09
+81,27,Madhapur,BHEL,C,27.067,77.455,21.15
+82,28,Madhapur,KPHB,A,23.194,31.142,48.36
+83,28,Madhapur,KPHB,B,23.442,53.695,25.99
+84,28,Madhapur,KPHB,C,26.995,55.202,30.04
+85,29,KPHB,Hitech City,A,23.381,30.454,46.96
+86,29,KPHB,Hitech City,B,25.523,51.091,29.48
+87,29,KPHB,Hitech City,C,27.689,63.504,26.12
+88,30,KPHB,Begumpet,A,24.354,34.186,42.35
+89,30,KPHB,Begumpet,B,25.262,55.479,27.25
+90,30,KPHB,Begumpet,C,30.81,80.712,23.91
+91,31,KPHB,Airport,A,24.233,29.35,53.06
+92,31,KPHB,Airport,B,27.309,43.314,38.67
+93,31,KPHB,Airport,C,28.971,86.546,20.15
+94,32,LB Nagar,Gachibowli,A,25.234,28.818,50.51
+95,32,LB Nagar,Gachibowli,B,26.147,39.491,38.75
+96,32,LB Nagar,Gachibowli,C,32.179,60.838,31.85
+97,33,LB Nagar,Hitech City,A,26.027,38.186,41.41
+98,33,LB Nagar,Hitech City,B,27.864,46.49,36.79
+99,33,LB Nagar,Hitech City,C,30.312,59.9,30.39
+100,34,LB Nagar,Banjara Hills,A,26.756,34.106,48.91
+101,34,LB Nagar,Banjara Hills,B,27.603,46.794,37.68
+102,34,LB Nagar,Banjara Hills,C,33.173,70.521,27.61
+103,35,Dilsukhnagar,Airport,A,26.174,35.249,48.91
+104,35,Dilsukhnagar,Airport,B,30.339,50.831,36.37
+105,35,Dilsukhnagar,Airport,C,32.052,86.391,22.81
+106,36,Dilsukhnagar,Hitech City,A,28.665,33.12,50.76
+107,36,Dilsukhnagar,Hitech City,B,30.816,52.514,34.97
+108,36,Dilsukhnagar,Hitech City,C,31.641,71.42,26.65
+109,37,Dilsukhnagar,Gachibowli,A,27.85,39.045,41.75
+110,37,Dilsukhnagar,Gachibowli,B,31.265,48.146,39.79
+111,37,Dilsukhnagar,Gachibowli,C,32.006,98.737,19.47
+112,38,Kondapur,Financial District,A,29.565,35.564,49.01
+113,38,Kondapur,Financial District,B,31.429,53.802,34.28
+114,38,Kondapur,Financial District,C,33.535,96.483,20.75
+115,39,Kondapur,Jubilee Hills,A,29.016,33.169,53.46
+116,39,Kondapur,Jubilee Hills,B,32.844,78.437,25.44
+117,39,Kondapur,Jubilee Hills,C,34.19,68.852,30.03
+118,40,Airport,Gachibowli,A,30.664,36.03,51.73
+119,40,Airport,Gachibowli,B,32.035,59.218,33.67
+120,40,Airport,Gachibowli,C,34.928,110.214,18.88
+121,41,Airport,Banjara Hills,A,30.33,42.961,41.63
+122,41,Airport,Banjara Hills,B,33.953,70.745,28.8
+123,41,Airport,Banjara Hills,C,34.688,98.711,21.48
+124,42,Airport,Madhapur,A,31.083,40.563,45.83
+125,42,Airport,Madhapur,B,35.078,65.468,31.78
+126,42,Airport,Madhapur,C,35.444,70.246,28.77
+127,43,Jubilee Hills,Banjara Hills,A,32.494,40.247,46.67
+128,43,Jubilee Hills,Banjara Hills,B,34.765,70.864,29.02
+129,43,Jubilee Hills,Banjara Hills,C,34.847,86.984,23.71
+130,44,Jubilee Hills,Kondapur,A,33.431,39.398,51.77
+131,44,Jubilee Hills,Kondapur,B,34.87,65.968,31.57
+132,44,Jubilee Hills,Kondapur,C,34.902,67.97,30.95

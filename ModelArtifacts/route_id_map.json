@@ -1,0 +1,530 @@
+{
+    "1": {
+        "source": "Hyderabad",
+        "destination": "Gachibowli"
+    },
+    "2": {
+        "source": "Hyderabad",
+        "destination": "Gachibowli"
+    },
+    "3": {
+        "source": "Hyderabad",
+        "destination": "Gachibowli"
+    },
+    "4": {
+        "source": "Hyderabad",
+        "destination": "Madhapur"
+    },
+    "5": {
+        "source": "Hyderabad",
+        "destination": "Madhapur"
+    },
+    "6": {
+        "source": "Hyderabad",
+        "destination": "Madhapur"
+    },
+    "7": {
+        "source": "Hyderabad",
+        "destination": "Banjara Hills"
+    },
+    "8": {
+        "source": "Hyderabad",
+        "destination": "Banjara Hills"
+    },
+    "9": {
+        "source": "Hyderabad",
+        "destination": "Banjara Hills"
+    },
+    "10": {
+        "source": "Hyderabad",
+        "destination": "Secunderabad"
+    },
+    "11": {
+        "source": "Hyderabad",
+        "destination": "Secunderabad"
+    },
+    "12": {
+        "source": "Hyderabad",
+        "destination": "Secunderabad"
+    },
+    "13": {
+        "source": "Hyderabad",
+        "destination": "Begumpet"
+    },
+    "14": {
+        "source": "Hyderabad",
+        "destination": "Begumpet"
+    },
+    "15": {
+        "source": "Hyderabad",
+        "destination": "Begumpet"
+    },
+    "16": {
+        "source": "Hyderabad",
+        "destination": "Kukatpally"
+    },
+    "17": {
+        "source": "Hyderabad",
+        "destination": "Kukatpally"
+    },
+    "18": {
+        "source": "Hyderabad",
+        "destination": "Kukatpally"
+    },
+    "19": {
+        "source": "Hyderabad",
+        "destination": "Uppal"
+    },
+    "20": {
+        "source": "Hyderabad",
+        "destination": "Uppal"
+    },
+    "21": {
+        "source": "Hyderabad",
+        "destination": "Uppal"
+    },
+    "22": {
+        "source": "Hyderabad",
+        "destination": "LB Nagar"
+    },
+    "23": {
+        "source": "Hyderabad",
+        "destination": "LB Nagar"
+    },
+    "24": {
+        "source": "Hyderabad",
+        "destination": "LB Nagar"
+    },
+    "25": {
+        "source": "Hyderabad",
+        "destination": "Dilsukhnagar"
+    },
+    "26": {
+        "source": "Hyderabad",
+        "destination": "Dilsukhnagar"
+    },
+    "27": {
+        "source": "Hyderabad",
+        "destination": "Dilsukhnagar"
+    },
+    "28": {
+        "source": "Hyderabad",
+        "destination": "Hitech City"
+    },
+    "29": {
+        "source": "Hyderabad",
+        "destination": "Hitech City"
+    },
+    "30": {
+        "source": "Hyderabad",
+        "destination": "Hitech City"
+    },
+    "31": {
+        "source": "Gachibowli",
+        "destination": "Madhapur"
+    },
+    "32": {
+        "source": "Gachibowli",
+        "destination": "Madhapur"
+    },
+    "33": {
+        "source": "Gachibowli",
+        "destination": "Madhapur"
+    },
+    "34": {
+        "source": "Gachibowli",
+        "destination": "Banjara Hills"
+    },
+    "35": {
+        "source": "Gachibowli",
+        "destination": "Banjara Hills"
+    },
+    "36": {
+        "source": "Gachibowli",
+        "destination": "Banjara Hills"
+    },
+    "37": {
+        "source": "Gachibowli",
+        "destination": "Airport"
+    },
+    "38": {
+        "source": "Gachibowli",
+        "destination": "Airport"
+    },
+    "39": {
+        "source": "Gachibowli",
+        "destination": "Airport"
+    },
+    "40": {
+        "source": "Gachibowli",
+        "destination": "Kondapur"
+    },
+    "41": {
+        "source": "Gachibowli",
+        "destination": "Kondapur"
+    },
+    "42": {
+        "source": "Gachibowli",
+        "destination": "Kondapur"
+    },
+    "43": {
+        "source": "Gachibowli",
+        "destination": "Financial District"
+    },
+    "44": {
+        "source": "Gachibowli",
+        "destination": "Financial District"
+    },
+    "45": {
+        "source": "Gachibowli",
+        "destination": "Financial District"
+    },
+    "46": {
+        "source": "Secunderabad",
+        "destination": "Hitech City"
+    },
+    "47": {
+        "source": "Secunderabad",
+        "destination": "Hitech City"
+    },
+    "48": {
+        "source": "Secunderabad",
+        "destination": "Hitech City"
+    },
+    "49": {
+        "source": "Secunderabad",
+        "destination": "Kukatpally"
+    },
+    "50": {
+        "source": "Secunderabad",
+        "destination": "Kukatpally"
+    },
+    "51": {
+        "source": "Secunderabad",
+        "destination": "Kukatpally"
+    },
+    "52": {
+        "source": "Secunderabad",
+        "destination": "Banjara Hills"
+    },
+    "53": {
+        "source": "Secunderabad",
+        "destination": "Banjara Hills"
+    },
+    "54": {
+        "source": "Secunderabad",
+        "destination": "Banjara Hills"
+    },
+    "55": {
+        "source": "Secunderabad",
+        "destination": "Gachibowli"
+    },
+    "56": {
+        "source": "Secunderabad",
+        "destination": "Gachibowli"
+    },
+    "57": {
+        "source": "Secunderabad",
+        "destination": "Gachibowli"
+    },
+    "58": {
+        "source": "Secunderabad",
+        "destination": "Begumpet"
+    },
+    "59": {
+        "source": "Secunderabad",
+        "destination": "Begumpet"
+    },
+    "60": {
+        "source": "Secunderabad",
+        "destination": "Begumpet"
+    },
+    "61": {
+        "source": "Uppal",
+        "destination": "Hitech City"
+    },
+    "62": {
+        "source": "Uppal",
+        "destination": "Hitech City"
+    },
+    "63": {
+        "source": "Uppal",
+        "destination": "Hitech City"
+    },
+    "64": {
+        "source": "Uppal",
+        "destination": "Gachibowli"
+    },
+    "65": {
+        "source": "Uppal",
+        "destination": "Gachibowli"
+    },
+    "66": {
+        "source": "Uppal",
+        "destination": "Gachibowli"
+    },
+    "67": {
+        "source": "Uppal",
+        "destination": "Secunderabad"
+    },
+    "68": {
+        "source": "Uppal",
+        "destination": "Secunderabad"
+    },
+    "69": {
+        "source": "Uppal",
+        "destination": "Secunderabad"
+    },
+    "70": {
+        "source": "Uppal",
+        "destination": "Financial District"
+    },
+    "71": {
+        "source": "Uppal",
+        "destination": "Financial District"
+    },
+    "72": {
+        "source": "Uppal",
+        "destination": "Financial District"
+    },
+    "73": {
+        "source": "Madhapur",
+        "destination": "Jubilee Hills"
+    },
+    "74": {
+        "source": "Madhapur",
+        "destination": "Jubilee Hills"
+    },
+    "75": {
+        "source": "Madhapur",
+        "destination": "Jubilee Hills"
+    },
+    "76": {
+        "source": "Madhapur",
+        "destination": "Airport"
+    },
+    "77": {
+        "source": "Madhapur",
+        "destination": "Airport"
+    },
+    "78": {
+        "source": "Madhapur",
+        "destination": "Airport"
+    },
+    "79": {
+        "source": "Madhapur",
+        "destination": "BHEL"
+    },
+    "80": {
+        "source": "Madhapur",
+        "destination": "BHEL"
+    },
+    "81": {
+        "source": "Madhapur",
+        "destination": "BHEL"
+    },
+    "82": {
+        "source": "Madhapur",
+        "destination": "KPHB"
+    },
+    "83": {
+        "source": "Madhapur",
+        "destination": "KPHB"
+    },
+    "84": {
+        "source": "Madhapur",
+        "destination": "KPHB"
+    },
+    "85": {
+        "source": "KPHB",
+        "destination": "Hitech City"
+    },
+    "86": {
+        "source": "KPHB",
+        "destination": "Hitech City"
+    },
+    "87": {
+        "source": "KPHB",
+        "destination": "Hitech City"
+    },
+    "88": {
+        "source": "KPHB",
+        "destination": "Begumpet"
+    },
+    "89": {
+        "source": "KPHB",
+        "destination": "Begumpet"
+    },
+    "90": {
+        "source": "KPHB",
+        "destination": "Begumpet"
+    },
+    "91": {
+        "source": "KPHB",
+        "destination": "Airport"
+    },
+    "92": {
+        "source": "KPHB",
+        "destination": "Airport"
+    },
+    "93": {
+        "source": "KPHB",
+        "destination": "Airport"
+    },
+    "94": {
+        "source": "LB Nagar",
+        "destination": "Gachibowli"
+    },
+    "95": {
+        "source": "LB Nagar",
+        "destination": "Gachibowli"
+    },
+    "96": {
+        "source": "LB Nagar",
+        "destination": "Gachibowli"
+    },
+    "97": {
+        "source": "LB Nagar",
+        "destination": "Hitech City"
+    },
+    "98": {
+        "source": "LB Nagar",
+        "destination": "Hitech City"
+    },
+    "99": {
+        "source": "LB Nagar",
+        "destination": "Hitech City"
+    },
+    "100": {
+        "source": "LB Nagar",
+        "destination": "Banjara Hills"
+    },
+    "101": {
+        "source": "LB Nagar",
+        "destination": "Banjara Hills"
+    },
+    "102": {
+        "source": "LB Nagar",
+        "destination": "Banjara Hills"
+    },
+    "103": {
+        "source": "Dilsukhnagar",
+        "destination": "Airport"
+    },
+    "104": {
+        "source": "Dilsukhnagar",
+        "destination": "Airport"
+    },
+    "105": {
+        "source": "Dilsukhnagar",
+        "destination": "Airport"
+    },
+    "106": {
+        "source": "Dilsukhnagar",
+        "destination": "Hitech City"
+    },
+    "107": {
+        "source": "Dilsukhnagar",
+        "destination": "Hitech City"
+    },
+    "108": {
+        "source": "Dilsukhnagar",
+        "destination": "Hitech City"
+    },
+    "109": {
+        "source": "Dilsukhnagar",
+        "destination": "Gachibowli"
+    },
+    "110": {
+        "source": "Dilsukhnagar",
+        "destination": "Gachibowli"
+    },
+    "111": {
+        "source": "Dilsukhnagar",
+        "destination": "Gachibowli"
+    },
+    "112": {
+        "source": "Kondapur",
+        "destination": "Financial District"
+    },
+    "113": {
+        "source": "Kondapur",
+        "destination": "Financial District"
+    },
+    "114": {
+        "source": "Kondapur",
+        "destination": "Financial District"
+    },
+    "115": {
+        "source": "Kondapur",
+        "destination": "Jubilee Hills"
+    },
+    "116": {
+        "source": "Kondapur",
+        "destination": "Jubilee Hills"
+    },
+    "117": {
+        "source": "Kondapur",
+        "destination": "Jubilee Hills"
+    },
+    "118": {
+        "source": "Airport",
+        "destination": "Gachibowli"
+    },
+    "119": {
+        "source": "Airport",
+        "destination": "Gachibowli"
+    },
+    "120": {
+        "source": "Airport",
+        "destination": "Gachibowli"
+    },
+    "121": {
+        "source": "Airport",
+        "destination": "Banjara Hills"
+    },
+    "122": {
+        "source": "Airport",
+        "destination": "Banjara Hills"
+    },
+    "123": {
+        "source": "Airport",
+        "destination": "Banjara Hills"
+    },
+    "124": {
+        "source": "Airport",
+        "destination": "Madhapur"
+    },
+    "125": {
+        "source": "Airport",
+        "destination": "Madhapur"
+    },
+    "126": {
+        "source": "Airport",
+        "destination": "Madhapur"
+    },
+    "127": {
+        "source": "Jubilee Hills",
+        "destination": "Banjara Hills"
+    },
+    "128": {
+        "source": "Jubilee Hills",
+        "destination": "Banjara Hills"
+    },
+    "129": {
+        "source": "Jubilee Hills",
+        "destination": "Banjara Hills"
+    },
+    "130": {
+        "source": "Jubilee Hills",
+        "destination": "Kondapur"
+    },
+    "131": {
+        "source": "Jubilee Hills",
+        "destination": "Kondapur"
+    },
+    "132": {
+        "source": "Jubilee Hills",
+        "destination": "Kondapur"
+    }
+}
